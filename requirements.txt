@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-azure-functions
-azure-storage-blob
-azure-data-tables
-=======
-azure-functions
-azure-storage-blob
-azure-data-tables
->>>>>>> 7041293 (Fix file structure for Azure deployment)
